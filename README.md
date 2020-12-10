@@ -4,11 +4,11 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+News Application using api [newsapi.org](https://newsapi.org) 
 
 ## Screenshots:-
 First | Second | Third | Fourth |
- :---- | :----  | ----  | ----   |
+ ---- | ----   | ----  | ----   |
 <img src="screenshots/newwzScreenshot1.jpg" width = "250">|<img src="screenshots/newwzScreenshot2.jpg" width = "250">|<img src="screenshots/newwzScreenshot3.jpg" width = "250">|<img src="screenshots/newwzScreenshot4.jpg" width = "250">|
 
 
