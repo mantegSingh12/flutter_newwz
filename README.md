@@ -6,6 +6,13 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
+## Screenshots:-
+First | Second | Third | Fourth |
+ :---- | :----  | ----  | ----   |
+<img src="screenshots/newwzScreenshot1.jpg" width = "250">|<img src="screenshots/newwzScreenshot2.jpg" width = "250">|<img src="screenshots/newwzScreenshot3.jpg" width = "250">|<img src="screenshots/newwzScreenshot4.jpg" width = "250">|
+
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
